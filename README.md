@@ -16,3 +16,4 @@ gradle build
 ```
 mvn compile
 ```
+[![](https://codescene.io/projects/5745/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5745/jobs/latest-successful/results)
