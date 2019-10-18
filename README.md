@@ -18,7 +18,4 @@ mvn compile
 ```
 [![](https://codescene.io/projects/5745/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5745/jobs/latest-successful/results)
 
-<a href="https://scan.coverity.com/projects/duong17020661-juliet-test-suite">
-  <img alt="Coverity Scan Build Status"
-       src="https://scan.coverity.com/projects/19448/badge.svg"/>
-</a>
+
