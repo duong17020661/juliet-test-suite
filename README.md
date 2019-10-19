@@ -19,4 +19,8 @@ mvn compile
 [![](https://codescene.io/projects/5745/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5745/jobs/latest-successful/results)
 
 
+
 [![Kritika Analysis Status](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/status.svg)](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/)
+[![Kritika Analysis Status](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/status.svg?type=coverage)](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/)
+[![Kritika Analysis Status](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/status.svg?type=deps)](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/)
+[![Kritika Analysis Status](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/status.svg?type=score%2Bcoverage%2Bdeps)](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/)
