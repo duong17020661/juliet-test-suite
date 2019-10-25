@@ -25,3 +25,5 @@ mvn compile
 [![Kritika Analysis Status](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/status.svg?type=coverage)](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/)
 [![Kritika Analysis Status](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/status.svg?type=deps)](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/)
 [![Kritika Analysis Status](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/status.svg?type=score%2Bcoverage%2Bdeps)](https://kritika.io/users/duong17020661/repos/4551184825185259/heads/master/)
+# So sánh 2 tool
+https://docs.google.com/document/d/14WTeWbywk6NmTWrv3JDwH4YvYLO0sisP577hoNckn2M/edit?usp=sharing
